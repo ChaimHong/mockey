@@ -1,5 +1,5 @@
-//go:build linux && riscv64 && !go1.26
-// +build linux,riscv64,!go1.26
+//go:build linux && riscv64 && !go1.28
+// +build linux,riscv64,!go1.28
 
 /*
  * Copyright 2022 ByteDance Inc.
